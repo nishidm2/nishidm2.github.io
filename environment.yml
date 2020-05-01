@@ -7,3 +7,8 @@ dependencies:
   - numpy
   - pandas
   - ipykernel
+  - matplotlib
+  - datetime
+  - ipywidgets
+  - bqplot
+  
